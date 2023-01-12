@@ -9,6 +9,13 @@ Summary: Based on the results, provide three business recommendations to the CEO
 
 ## Results
 ### We begin generating our data by importing the correct infomation from the provided ride and city CSV files. A dataframe is created to gather data on total ride counts, total drivers, amount of ride fares, and averages fares per drivers & rides. We can see from the image below that the urban communities have a cheaper rate per driver & rides with more total rides & drivers available resulting in the total fare being the highest among the three communities. Being in the rural areas caused an increase to the rates per driver & ride due to insufficient amount of drivers available resulting in the lowest outcome for total rides & fares. The median between the three communities came out to be the suburban community with more totals then the rural areas but less totals then urban areas.
+
+We can see from the summary image below that there are some obvious takeaways:
+
+  * The urban communities have a cheaper rate per driver & rides with more total rides & drivers available resulting in the total fare being the highest among the three communities
+  * Being in the rural areas caused an increase to the rates per driver & ride due to insufficient amount of drivers available resulting in the lowest outcome for total rides & fares.
+  * The median between the three communities came out to be the suburban community with more totals then the rural areas but less totals then urban areas.
+
 ![Ride Share Data](https://user-images.githubusercontent.com/118647523/212169903-19a12395-6a60-433b-9587-3c9d41fac6ff.png)
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/118647523/212168005-17d369f4-fe5a-4a5a-aba2-93f550707f2f.png)
