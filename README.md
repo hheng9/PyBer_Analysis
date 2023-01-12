@@ -17,7 +17,7 @@ As we can see from the summary image below that there are some obvious takeaways
 ![Ride Share Data](https://user-images.githubusercontent.com/118647523/212169903-19a12395-6a60-433b-9587-3c9d41fac6ff.png)
 
 ### By creating the  Matplotlib "fivethirtyeight" chart style for the specific timeline we can almost see the similarities in data for the short timeframe given. A dataframe was created to display the graph by certain groups and specific dates then resampling or pivoting the data as needed.
-Listed below is a the total fare by city type chart though 1/1/2019 - 4/29/2019:
+Listed below you can compare the total fare by the city type through the dates of 1/1/2019 to 4/29/2019:
   * The urban communities have a cheaper rate per driver & rides with more total rides & drivers available resulting in the total fare being the highest among the three communities
   * Being in the rural areas caused an increase to the rates per driver & ride due to insufficient amount of drivers available resulting in the lowest outcome for total rides & fares.
   * The median between the three communities came out to be the suburban community with more totals then the rural areas but less totals then urban areas.
