@@ -20,7 +20,8 @@ As we can see from the summary image below that there are some obvious takeaways
 Listed below you can compare the total fares by city type through the specified dates of 1/1/2019 to 4/29/2019:
   * All three communities seemed to peak in fares toward the end of Februaury.
   * Urban rates still remain the highest fare but tends to fluctuate during the spring season.
-  * Rural areas stay fairly consistant throughout this timeframe with very little increase or decline.
+  * Rural areas stay fairly consistant throughout this timeframe with very little dramatic increase or decline.
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/118647523/212168005-17d369f4-fe5a-4a5a-aba2-93f550707f2f.png)
 
 
