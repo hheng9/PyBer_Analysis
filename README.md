@@ -25,8 +25,8 @@ Listed below you can compare the total fares by city type through the specified 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/118647523/212168005-17d369f4-fe5a-4a5a-aba2-93f550707f2f.png)
 
 ## Summary 
-### * View large a time window to adjust fare pricing during peak and low total rides.
-### * View large a time window to adjust fare pricing during peak and low total rides.
+### - View large a time window for the entire year to adjust fare pricing during peak and low total rides. This would increase profit for all the total fares during busy fluctuation for all urban, suburban, and rural areas.
+### - View large a time window to adjust fare pricing during peak and low total rides.
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 Summary:
