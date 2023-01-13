@@ -27,7 +27,7 @@ Listed below you can compare the total fares by city type through the specified 
 ## Summary 
 ### - Analyze and view a larger time window for the entire year to adjust fare pricing during peak and low ride totals. This would increase profit for all the total fares during busy fluctuation for all urban, suburban, and rural areas.
 ### - The suburban areas have good amount of drivers so lowering the average fare per ride in this areas could attract more rides in total but doing so could cause average fare per driver to slightly decrease.
-### The rural areas have more drivers total than total rides all together. Adjusting average fare per driver in rural areas could help bring down a more affordable cost for the average fare per ride which might help increase more rides for the total amount of drivers
+### - The rural areas have more drivers total than total rides all together. Adjusting average fare per driver in rural areas could help bring down a more affordable cost for the average fare per ride which might help increase more rides for the total amount of drivers.
 
 
 
